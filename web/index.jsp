@@ -14,5 +14,6 @@
     </head>
     <body>
         <h1>Pagina de yorgi</h1>
+        <%-- Aqui empieza la pagina --%>
     </body>
 </html>
