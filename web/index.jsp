@@ -10,6 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="Css/Style.css" rel="stylesheet">
         <title>Yorgi</title>
     </head>
     <body>
@@ -19,10 +20,10 @@
         </header>
         <nav>
             <ul>
-                <li><a href="Fotos"></li>
-                <li><a href="Imagenes IA"></li>
-                <li><a href="Comentarios"></li>
-                <li><a href="Pagina Principal"></li>
+                <li><a href="Fotos">Fotos</a></li>
+                <li><a href="Imagenes IA">Imagenes IA</a></li>
+                <li><a href="Comentarios">Comentarios</a></li>
+                <li><a href="Pagina Principal">Home</a></li>
             </ul>
         </nav>
         <section>
